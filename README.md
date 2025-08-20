@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jagath krishna</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-- 🌱 I’m currently learning **Python Django**
+- 🌱 I’m currently learning **Java Spring Boot**
 
 - 📫 How to reach me **jagathkrishnaachu123@gmail.com**
 
